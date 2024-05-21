@@ -16,5 +16,6 @@ I'm an aspiring Investment Machine Learning Engineer with a solid foundation in 
 - Continuously expanding my knowledge in machine learning algorithms, financial markets, and data science.
 
 ## 🤝🏻 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mrmz1010)
 - [Email](mailto:mohammadalimirzaei.business@gmail.com)
+- [Telegram](https://t.me/mrmz1010)
+
