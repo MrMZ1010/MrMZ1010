@@ -17,5 +17,6 @@ I'm an aspiring Investment Machine Learning Engineer with a solid foundation in 
 
 ## 🤝🏻 Let's Connect
 - [Email](mailto:mohammadalimirzaei.business@gmail.com)
+- [Instagram](https://www.instagram.com/mrmz1010)
 - [Telegram](https://t.me/mrmz1010)
 
