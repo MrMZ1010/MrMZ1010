@@ -6,7 +6,7 @@ I'm an aspiring Investment Machine Learning Engineer with a solid foundation in 
 ## 🧠 Skills
 - **Programming**: 3 years of experience in Python and SQL.
 - **Finance**: 1 year of focused studies in financial markets and investment strategies.
-- **Machine Learning**: Passionate about applying machine learning techniques to solve complex investment problems.
+- **Machine Learning**: Passionate about applying machine learning techniques to solve complex problems.
 
 ## 📋 Projects
 - Developing models for predicting gold prices using machine learning.
