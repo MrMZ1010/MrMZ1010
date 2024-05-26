@@ -3,10 +3,6 @@
 </div>
 I'm an aspiring Investment Machine Learning Engineer with a solid foundation in both programming and finance.
 
-You may want to:
-
-<a href="https://www.buymeacoffee.com/mrmz1010" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## 🧠 Skills
 - **Programming**: 3 years of experience in Python and SQL.
 - **Finance**: 1 year of focused studies in financial markets and investment strategies.
