@@ -13,7 +13,7 @@ I'm an aspiring Financial Data Scientist with a solid foundation in both program
 - Building financial data analysis tools to gain insights into market trends.
 
 ## 📚 Learning
-- Continuously expanding my knowledge in data science, financial markets, and investment strategies.
+- Continuously expanding my knowledge in data science, financial markets and investment strategies.
 
 ## 🤝🏻 Let's Connect
 - [Email](mailto:mohammadalimirzaei.business@gmail.com)
