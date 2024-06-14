@@ -1,11 +1,11 @@
 <div  align="center">
  <h1> Hey there 👋</h1>
 </div>
-I'm an aspiring Financial Data Scientist with a solid foundation in both programming and finance.
+I'm an aspiring Investment Data Scientist with a solid foundation in both programming and finance.
 
 ## 🧠 Skills
 - **Programming**: 3 years of experience in Python and SQL.
-- **Finance**: 1 year of focused studies in financial markets and investment strategies.
+- **Investing**: 1 year of focused studies in financial markets and investment strategies.
 - **Data Science**: Passionate about applying data science techniques to solve complex financial problems.
 
 ## 📋 Projects
