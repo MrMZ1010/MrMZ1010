@@ -1,19 +1,19 @@
 <div  align="center">
  <h1> Hey there 👋</h1>
 </div>
-I'm an aspiring Investment Machine Learning Engineer with a solid foundation in both programming and finance.
+I'm an aspiring Financial Data Scientist with a solid foundation in both programming and finance.
 
 ## 🧠 Skills
 - **Programming**: 3 years of experience in Python and SQL.
 - **Finance**: 1 year of focused studies in financial markets and investment strategies.
-- **Machine Learning**: Passionate about applying machine learning techniques to solve complex problems.
+- **Data Science**: Passionate about applying data science techniques to solve complex financial problems.
 
 ## 📋 Projects
 - Developing models for predicting gold prices using machine learning.
 - Building financial data analysis tools to gain insights into market trends.
 
 ## 📚 Learning
-- Continuously expanding my knowledge in machine learning algorithms, financial markets, and data science.
+- Continuously expanding my knowledge in data science, financial markets, and investment strategies.
 
 ## 🤝🏻 Let's Connect
 - [Email](mailto:mohammadalimirzaei.business@gmail.com)
